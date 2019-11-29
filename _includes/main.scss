@@ -1,0 +1,112 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+}
+.img-spacing-fix {
+    font-size: 0;
+}
+a {
+    text-decoration: none;
+    font-weight: 600;
+    color: #333;
+    transition: color .2s;
+
+    &:hover {
+        color: #83da38;
+    }
+}
+@keyframes fade-in-top {
+    from {
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+.fade-in {
+    animation-name: fade-in-top;
+    animation-duration: 1s;
+}
+.site-header {
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+    > img {
+        height: 40px;
+    }
+
+    > a {
+        display: inline-block;
+        vertical-align: top;
+        line-height: 44px;
+        margin-left: 16px;
+    }
+}
+.guide-container {
+    padding: 30px;
+    box-sizing: border-box;
+
+    > a {
+        text-decoration: none;
+
+        &:hover {
+            p {
+                color: #83da38;
+            }
+        }
+    }
+}
+.guide {
+    position: relative;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px 4px rgba(0,0,0,0.4);
+}
+.guide-thumbnail {
+    width: 100%;
+    border-radius: 12px;
+}
+.guide-text {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0));
+    padding: 12px 24px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+
+    > p {
+        color: #fff;
+        margin: 0;   
+        transition: color .2s;
+    }
+}
+hr {
+    border-top: 1px solid #ccc;
+    border-bottom: none;
+    margin: 12px 0;
+}
+.post-content {
+    line-height: 1.5;
+
+    img {
+        max-width: 50%;
+    }
+}
+@media (prefers-color-scheme: dark) {
+    body {
+        background: #222;
+        color: #bbb;
+    }
+    a {
+        color: #eee;
+    }
+    hr {
+        border-color: #2c2c2c;
+    }
+}
+footer {
+    margin-bottom: 10px;
+}

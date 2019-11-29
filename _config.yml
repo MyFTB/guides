@@ -1,0 +1,21 @@
+title: MyFTB Kurzanleitungen
+email: info@myftb.de
+author: MyFTB
+url: "https://guides.myftb.de"
+
+lang: de
+
+webp:
+  enabled: true
+  quality: 75
+  img_dir: ["/guides/"]
+  nested: true
+  formats: [".png", ".jpg", ".jpeg"]
+
+twitter:
+  username: myftb
+  card: summary
+
+plugins:
+ - jekyll-seo-tag
+ - jekyll-webp
