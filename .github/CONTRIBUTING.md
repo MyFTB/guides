@@ -11,7 +11,7 @@ Dieser wird dann von den berechtigten Teammitgliedern überprüft und anschließ
 
 Damit das Erstellen einer Anleitung auch reibungslos klappt, gibt es hier eine kurze Anleitung dazu:
 
-1. Erstelle einen Unterordner im Ordner [guides](guides/). Wähle einen kurzen und prägnanten Namen, der für deine Anleitung zutreffend ist, 
+1. Erstelle einen Unterordner im Ordner [guides](../guides/). Wähle einen kurzen und prägnanten Namen, der für deine Anleitung zutreffend ist, 
 und sich nicht mit anderen Namen überschneidet.
 2. Erstelle im eben erstellen Ordner eine Datei mit dem selben Namen, sowie der Dateiendung `.md`
 3. Füge der Datei eine Kopfzeile hinzu:
