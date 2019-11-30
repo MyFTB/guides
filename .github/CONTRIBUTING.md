@@ -4,6 +4,8 @@ Um einheitliche und korrekte Anleitungen zu gewähren, stellen wir einige Grundv
 Viele Fallen sind bereits durch den genutzten Static Site Generator [Jekyll](https://jekyllrb.com/) beseitigt, 
 und der Aufwand auf ein Minimum reduziert.
 
+Außerdem sollte klargestellt werden, dass hierbei **nur** Anleitungen zu MyFTB Inhalten erstellt werden sollen. Anleitungen zu z.B. Modinhalten gehören **nicht** in die MyFTB Kurzanleitungen.
+
 > **Hinweis:** aus ersichtlichen Gründen, haben nur einige Teammitglieder direkten Schreibzugriff auf die Dateien. Damit
 du deine Anleitung einbringen kannst, ist es notwendig, dieses Repository zu [forken](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 und anschließend einen [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) mit dem Inhalt deines Forks zu erstellen.
@@ -38,7 +40,7 @@ und sich nicht mit anderen Namen überschneidet.
      
    - Möchtest du eine Schritt für Schritt Anleitung erstellen ([Beispiel](https://guides.myftb.de/crashs)), füge die Zeile `stepbystep: true` vor den unteren drei Strichen ein.
    
-4. Nun kannst du deiner kreativität freien Lauf lassen: Füge unterhalb der Kopfzeile den gewünschten Text ein, 
+4. Nun kannst du deiner Kreativität freien Lauf lassen: Füge unterhalb der Kopfzeile den gewünschten Text ein, 
 der anschließend auf der Seite dargestellt werden soll. Hierfür solltest du das [Markdown-Format](https://www.markdownguide.org/cheat-sheet/) verwenden.
 
    Benötigst du Beispiele, schau dir zum Beispiel die Anleitung [zum Hochladen eines Crash-Reports](https://raw.githubusercontent.com/MyFTB/guides/master/guides/crashs/crashs.md)
