@@ -13,7 +13,7 @@ steps:
 
 - script: |
     bundle install
-    jekyll build
+    bundle exec jekyll build
   displayName: 'jekyll'
 
 - task: ArchiveFiles@2
