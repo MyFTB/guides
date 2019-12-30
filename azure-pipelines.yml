@@ -2,9 +2,9 @@ pool:
   vmImage: "ubuntu-16.04"
 
 steps:
-  - task: UseRubyVersion@0
-    inputs:
-      versionSpec: '>= 2.5'
+- task: UseRubyVersion@0
+  inputs:
+    versionSpec: '>= 2.5'
 
 - script: |
     gem install jekyll bundler
