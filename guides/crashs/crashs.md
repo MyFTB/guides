@@ -8,9 +8,11 @@ stepbystep: true
 
 - **Schritt 1:** Für einfache und komfortable Hilfe, verwende den [MyFTBLauncher](https://torch.myftb.de/launcher).
 ![MyFTBLauncher](/guides/crashs/launcher.jpg)
-- **Schritt 2:** Nachdem dein Spiel abgestürzt ist, klicke im Logfenster auf "Log hochladen"
+- **Schritt 2:** Öffne die Konsole deines geöffneten Spiels
+![MyFTBLauncher](/guides/crashs/openlog.jpg)
+- **Schritt 3:** Nachdem dein Spiel abgestürzt ist, klicke im Logfenster auf "Log hochladen"
 ![Logfenster](/guides/crashs/log.jpg)
-- **Schritt 3:** Kopiere den Link aus dem geöffneten Browserfenster
+- **Schritt 4:** Kopiere den Link aus dem geöffneten Browserfenster
 ![Browserfenster](/guides/crashs/browser.jpg)
-- **Schritt 4:** Wende dich mit dem Crashreport an ein Teammitglied (z.B. über Teamspeak oder Forum)
+- **Schritt 5:** Wende dich mit dem Crashreport an ein Teammitglied (z.B. über Teamspeak oder Forum)
 ![Kontakt](/guides/crashs/kontakt.jpg)
