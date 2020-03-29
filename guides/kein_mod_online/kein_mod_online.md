@@ -5,7 +5,7 @@ permalink: /kein-mod-online
 thumbnail: /guides/kein_mod_online/thumbnail.jpg
 ---
 
-Sollte es dazu kommen, dass ein Server fast leer ist und sich kein Moderator auf deinem Server befindet, gibt es dennoch viele weitere Möglichketen um eine Teammitglied bei Problemen zu erreichen. Diese Möglichketen werden in dieser Anleitung erläutert.
+Sollte es dazu kommen, dass ein Server fast leer ist und sich kein Moderator auf deinem Server befinden, gibt es dennoch viele weitere Möglichketen, um eine Teammitglied bei Problemen zu erreichen. Diese werden in dieser Anleitung erläutert.
 
 ---
 
@@ -22,9 +22,9 @@ Eine weitere Option ist der `#support` Text-Channel des [MyFTB Discord](https://
 
 ---
 
-Der [MyFTB Discord](https://myftb.de/discord) verfügt außerdem über ein Ticketsystem, welches für Probleme genutzt werden kann die nicht direkt im `#support` Text-Channel gelöst werden können.
+Der [MyFTB Discord](https://myftb.de/discord) verfügt außerdem über ein Ticketsystem, welches für Probleme genutzt werden kann, die nicht direkt im `#support` Text-Channel gelöst werden können.
 
-In diesem Video wird dir erklär, wie das Ticketsystem funkitoniert.
+In diesem Video wird dir erklärt, wie das Ticketsystem funktioniert.
 
 <div class="youtube-container">
   <iframe src="https://www.youtube.com/embed/Yf4ghFeAsFU?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
