@@ -14,7 +14,7 @@ Beweise in Form von Screenshots sind dabei hilfreich.
 
 ---
 
-Sehr viele Moderator befinden sich trotz Abwesenheit auf dem [MyFTB TeamSpeak Server](https://myftb.de/teamspeak). Dort kannst du dich in dem `Support & Hilfe` Channel deines Modpacks melden. Handelt es sich zum Beispiel um ein technisches Problem mit dem MyFTB Launcher, dann solltest du mit Hilfe [dieser Anleitung](/crashs) die Log des Launchers hochladen und diese im `Technik Support` Channel ganz oben im TeamSpeak einem Teammitglied schicken.
+Sehr viele Moderatoren befinden sich trotz Abwesenheit auf dem [MyFTB TeamSpeak Server](https://myftb.de/teamspeak). Dort kannst du dich in dem `Support & Hilfe` Channel deines Modpacks melden. Handelt es sich zum Beispiel um ein technisches Problem mit dem MyFTB Launcher, dann solltest du mit Hilfe [dieser Anleitung](/crashs) die Log des Launchers hochladen und diese im `Technik Support` Channel ganz oben im TeamSpeak einem Teammitglied schicken.
 
 Eine weitere Option ist der `#support` Text-Channel des [MyFTB Discord](https://myftb.de/discord). In diesem Channel kannst du in deiner Nachricht alle Teammitglieder eines Modpacks mit `@Modpackname` erwähnen und benachrichtigen.
 
