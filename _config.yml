@@ -4,3 +4,10 @@ author: MyFTB
 url: "https://guides.myftb.de"
 
 lang: de
+
+twitter:
+  username: myftb
+  card: summary
+
+plugins:
+ - jekyll-seo-tag
