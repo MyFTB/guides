@@ -79,7 +79,7 @@ a {
 
     > p {
         color: #fff;
-        margin: 0;   
+        margin: 0;
         transition: color .2s;
     }
 }
@@ -92,7 +92,13 @@ hr {
     line-height: 1.5;
 
     img {
-        max-width: 50%;
+        max-width: 100%;
+    }
+
+    @media (min-width: 992px) {
+      img {
+          max-width: 50%;
+      }
     }
 }
 @media (prefers-color-scheme: dark) {
