@@ -14,5 +14,5 @@ stepbystep: true
 ![Logfenster](/guides/crashs/log.jpg)
 - **Schritt 4:** Kopiere den Link aus dem geöffneten Browserfenster
 ![Browserfenster](/guides/crashs/browser.jpg)
-- **Schritt 5:** Wende dich mit dem Crashreport an ein Teammitglied (z.B. über Teamspeak oder Forum)
+- **Schritt 5:** Wende dich mit dem Crashreport an ein Teammitglied (z.B. über Teamspeak, Forum oder auch via Discord Support Channel bzw. Ticketsystem)
 ![Kontakt](/guides/crashs/kontakt.jpg)
