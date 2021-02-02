@@ -122,6 +122,27 @@ hr {
           padding: 0 !important;
       }
     }
+
+    table {
+        border:none;
+        border-collapse: collapse;
+
+        thead {
+            tr {
+                th {
+                    text-align: left;
+                }
+            }
+        }
+
+        tr > th, tr > td {
+            padding: 10px 20px;
+        }
+
+        tbody > tr:not(:last-child), thead > tr {
+            border-bottom: 1px solid #2c2c2c;
+        }
+    }
 }
 @media (prefers-color-scheme: dark) {
     body {
