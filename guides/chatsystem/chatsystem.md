@@ -20,7 +20,6 @@ Bitte beachte, dass du deine Nachrichten in einem Kanal schreibst, der für den 
 | Lokal   | L     | Dein aktueller Server           | Unterhaltung mit allen Spielern auf deinem Server |
 | Handel  | H     | Dein aktueller Server           | Handelsanfragen                                   |
 | Welt    |       | Deine aktuelle Welt             | Unterhaltungen mit deiner "Spielgruppe"           |
-| Support | Sup   | Alle Server deiner Servergruppe | Supportanfragen                                   |
 
 ## Befehle
 
