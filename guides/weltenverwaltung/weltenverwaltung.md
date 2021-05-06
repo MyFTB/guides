@@ -52,4 +52,3 @@ Weitere nützliche Befehle für die Weltenverwaltung:
 - `/settpworld` - Setzt den Spawnpunkt deiner Welt um
 - `/unlock` bzw. `/lock` - Erlaubt bzw. sperrt den Zutritt von Nicht-Mitbewohnern zu deiner Welt
 - `/pvp` - Aktiviert bzw. deaktiviert PvP in deiner Welt
-  
