@@ -12,6 +12,8 @@ Sollte es dazu kommen, dass ein Server fast leer ist und sich kein Moderator auf
 Ingame kannst du mit dem Befehl `/report <Spieler> <Grund>` einen Spieler melden, falls dieser einen Regelverstoß begangen hat.
 Beweise in Form von Screenshots sind dabei hilfreich.
 
+Weiters kannst du auch mit `/support <Frage>` deine Supportanfrage stellen, dadurch werden Teammitglieder benachrichtigt und können dir schnell bei deinen Problem helfen.
+
 ---
 
 Sehr viele Moderatoren befinden sich trotz Abwesenheit auf dem [MyFTB TeamSpeak Server](https://myftb.de/teamspeak). Dort kannst du dich in dem `Support & Hilfe` Channel deines Modpacks melden. Handelt es sich zum Beispiel um ein technisches Problem mit dem MyFTB Launcher, dann solltest du mit Hilfe [dieser Anleitung](/crashs) die Log des Launchers hochladen und diese im `Technik Support` Channel ganz oben im TeamSpeak einem Teammitglied schicken.
