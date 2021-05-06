@@ -12,7 +12,7 @@ Sollte es dazu kommen, dass ein Server fast leer ist und sich kein Moderator auf
 Ingame kannst du mit dem Befehl `/report <Spieler> <Grund>` einen Spieler melden, falls dieser einen Regelverstoß begangen hat.
 Beweise in Form von Screenshots sind dabei hilfreich.
 
-Des Weiteren kannst du auch mit `/support <Frage>` deine Supportanfrage stellen, dadurch werden Teammitglieder benachrichtigt und können dir schnell bei deinem Problem helfen.
+Des Weiteren kannst du auch mit `/support <Frage>` deine Supportanfrage stellen. Dadurch werden Teammitglieder benachrichtigt und können dir schnell bei deinem Problem helfen.
 
 ---
 
