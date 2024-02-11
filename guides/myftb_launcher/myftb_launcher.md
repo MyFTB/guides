@@ -18,6 +18,12 @@ Falls du dich nicht in MyFTB Launcher einloggen kannst folge bitte diesen Schrit
 - **Schritt 1:** Bist du mit dem richtigen Microsoft Account angemeldet?
 Dies kannst du am einfachsten über [die Accountseite von Microsoft überprüfen](https://account.microsoft.com/). Falls der Account nicht der richtige Account ist solltest du dich über die Schaltfläche rechts oben abmelden und anschließend erneut versuchen dich im MyFTB Launcher anzumelden.
 
+- **Schritt 2:** Auth Cookie Refresh
+Log dich auf der Account Seite über die Schaltfläche rechts oben aus und versuch es dann nochmal, falls der Logout funktioniert hat solltest du diesmal nach deinen Zugangsdaten gefragt und nicht erneut automatisch angemeldet werden.
+
+- *Schritt 3:** Zusatzdaten durch den Vanilla Launcher erstellen lassen
+Melde dich im offiziellen Minecraft Launcher an und starte dort das Spiel, schließe es anschließend und versuch dann erneut dich im MyFTB Launcher anzumelden.
+
 - Falls keine der anderen Schritte dein Problem behoben haben scroll bitte nach unten zum Punkt *"Vollständige Neuinstallation des MyFTB Launchers"*
 
 ---
