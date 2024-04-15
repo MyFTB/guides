@@ -5,21 +5,21 @@ permalink: /myftb-launcher
 thumbnail: /guides/myftb_launcher/thumbnail.jpg
 ---
 
-Hast du ein Problem mit dem MyFTB Launcher? Dann bist du hier richtig! In dieser Guide gehen wir auf typische Probleme mit dem MyFTB Launcher ein und wie man diese beheben kann.
+Hast du ein Problem mit dem MyFTB Launcher? Dann bist du hier richtig! In diesem Guide gehen wir auf typische Probleme mit dem MyFTB Launcher ein und wie man diese beheben kann.
 
 ---
 
-**Probleme beim Login**
+**Probleme bei der Anmeldung**
 
-Falls du dich nicht in MyFTB Launcher einloggen kannst, folge bitte diesen Schritten nach und nach, bis das Problem behoben ist.
+Falls du dich nicht im MyFTB Launcher einloggen kannst, folge bitte diesen Schritten nach und nach, bis das Problem behoben ist.
 
-- **Schritt 1:** Bist du mit dem richtigen Microsoft Account angemeldet? Dies kannst du am einfachsten über [die Accountseite von Microsoft überprüfen](https://account.microsoft.com/). Falls der Account nicht der richtige Account ist, solltest du dich über die Schaltfläche rechts oben abmelden und anschließend erneut versuchen, dich im MyFTB Launcher anzumelden.
+- **Schritt 1:** Bist du mit dem richtigen Microsoft-Account angemeldet? Dies kannst du am einfachsten über [die Account-Seite von Microsoft überprüfen](https://account.microsoft.com/). Falls es nicht der richtige Account ist, solltest du dich über die Schaltfläche rechts oben abmelden und anschließend erneut versuchen, dich im MyFTB Launcher anzumelden.
 
-- **Schritt 2:** Versuch, die Login Session neu zu generieren. Log dich dazu auf der [Account Seite](https://account.microsoft.com/) über die Schaltfläche rechts oben aus und versuch es dann erneut. Falls der Logout funktioniert hat, solltest du diesmal nach deinen Zugangsdaten gefragt und nicht erneut automatisch angemeldet werden.
+- **Schritt 2:** Versuch, die Login Session neu zu generieren. Log dich dazu auf der [Account-Seite](https://account.microsoft.com/) über die Schaltfläche rechts oben aus und versuche es dann erneut. Nach erfolgreichem Logout wirst du beim erneuten Anmelden diesmal nach deinen Zugangsdaten gefragt und nicht automatisch angemeldet.
 
-- **Schritt 3:** Melde dich im offiziellen Minecraft Launcher an und starte dort das Spiel, schließe es anschließend und versuch dann erneut, dich im MyFTB Launcher anzumelden. Dies scheint, warum auch immer, bei manchen den Fehler zu beheben.
+- **Schritt 3:** Melde dich im offiziellen Minecraft Launcher an und starte dort das Spiel, schließe es anschließend und versuch dann erneut, dich im MyFTB Launcher anzumelden. Dies scheint bei einigen Spielern den Fehler aus unbekannten Gründen zu beheben.
 
-- Falls keine der anderen Schritte dein Problem behoben hat, scroll bitte nach unten zum Punkt *"Vollständige Neuinstallation des MyFTB Launchers"*
+- Falls keiner der anderen Schritte dein Problem behoben hat, scrolle bitte nach unten zum Punkt *"Vollständige Neuinstallation des MyFTB Launchers"*
 
 ---
 
